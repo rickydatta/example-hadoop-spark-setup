@@ -23,4 +23,4 @@ Steps to setup a cloudera vm for development of hadoop/spark related projects in
 
 8. Install Scala Plugin (from IdeaJ, Settings, Plugins, JetBrains Plugins)
 
-9. (optional) If you are getting a waring from IdeaJ about git version being too old, update git from RPMForge
+9. (optional) If you are getting a warning from IdeaJ about git version being too old, update git from RPMForge
